@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## My academic projects
+
+### Jewelry E-Commerce System
+
+a)	Online Inventory System
+  •	Aim: Online system to add/update/delete products into the database.
+  •	Technologies: HTML, CSS, JavaScript, jQuery, PERL, Ajax, MySQL
+b)	Online Warehouse System
+  •	Aim: Online system to track the merchandise received/ merchandise sent from the warehouse.
+  •	Technologies: HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL.
+c)	Online shopping site 
+  •	Aim: Online website for customers to shop for jewellery.
+  •	Technologies: HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2_N-PCs9n9Q&t=7s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 You can use the [editor on GitHub](https://github.com/nehalchaudhary/academicProjects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
