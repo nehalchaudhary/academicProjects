@@ -12,7 +12,7 @@ Jan 2014 – Present
   *	Technologies: **HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL**.
 - [Code](https://github.com/nehalchaudhary/JewelryStore){:target="_blank" rel="noopener"}. 
 
-[![Demo](https://img.youtube.com/vi/2_N-PCs9n9Q/0.jpg)](https://www.youtube.com/watch?v=2_N-PCs9n9Q&t=7s)
+[![Demo](https://img.youtube.com/vi/2_N-PCs9n9Q/0.jpg)](https://www.youtube.com/watch?v=2_N-PCs9n9Q&t=7s){:target="_blank" rel="noopener"}. 
 
 
 
