@@ -1,6 +1,17 @@
----
-layout: default
----
+# Jewelry E-Commerce System
+Jan 2014 – Present
+
+1.	Online Inventory System
+  *	Aim: Online system to add/update/delete products into the database.
+  *	Technologies: **HTML, CSS, JavaScript, jQuery, PERL, Ajax, MySQL**
+2.	Online Warehouse System
+  *	Aim: Online system to track the merchandise received/ merchandise sent from the warehouse.
+  *	Technologies: **HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL**.
+3.	Online shopping site 
+  *	Aim: Online website for customers to shop for jewellery.
+  *	Technologies: **HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL**.
+
+[Code](https://github.com/nehalchaudhary/JewelryStore). [Demo](https://github.com/nehalchaudhary/JewelryStore). 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -10,7 +21,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
