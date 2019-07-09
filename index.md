@@ -1,17 +1,22 @@
 # Jewelry E-Commerce System
 Jan 2014 – Present
 
-1.	Online Inventory System
+Online Inventory System
   *	Aim: Online system to add/update/delete products into the database.
   *	Technologies: **HTML, CSS, JavaScript, jQuery, PERL, Ajax, MySQL**
-2.	Online Warehouse System
+Online Warehouse System
   *	Aim: Online system to track the merchandise received/ merchandise sent from the warehouse.
   *	Technologies: **HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL**.
-3.	Online shopping site 
+Online shopping site 
   *	Aim: Online website for customers to shop for jewellery.
   *	Technologies: **HTML, CSS, JavaScript, jQuery, Java, Ajax, MySQL**.
+[Code](https://github.com/nehalchaudhary/JewelryStore). 
 
-[Code](https://github.com/nehalchaudhary/JewelryStore). [Demo](https://github.com/nehalchaudhary/JewelryStore). 
+[![Demo](https://img.youtube.com/vi/2_N-PCs9n9Q&t=7s/0.jpg)](https://www.youtube.com/watch?v=2_N-PCs9n9Q&t=7s)
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
